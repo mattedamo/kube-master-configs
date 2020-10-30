@@ -1,0 +1,5 @@
+commonLabels:
+  app: my-wordpress-sql
+bases:
+- ./wordpress
+- ./mysql
